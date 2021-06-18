@@ -428,6 +428,14 @@ nav {
   opacity: 1;
 }
 
+.specials-sec .swiper-btn {
+  color: #faf8f2;
+}
+
+.specials-sec .swiper-btn:hover {
+  color: #f3743d;
+}
+
 main {
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
           clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
